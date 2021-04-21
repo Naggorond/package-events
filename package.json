@@ -1,0 +1,23 @@
+{
+  "name": "package-events",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallInMyHand/package-events.git"
+  },
+  "author": "FallInMyHand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FallInMyHand/package-events/issues"
+  },
+  "homepage": "https://github.com/FallInMyHand/package-events#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
